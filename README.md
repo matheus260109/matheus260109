@@ -14,7 +14,7 @@ meu nome e matheus borges
 
 javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/main/Khanware.js").then(t=>t.text()).then(eval);
 
-
+https://scratch.mit.edu/projects/1148320935/
 
 Título: Garis e a Invisibilidade Pública: Estudo sobre o Reconhecimento Social
 
