@@ -27,3 +27,5 @@ Os resultados da pesquisa revelaram a “invisibilidade pública” dos garis, o
 Em depoimento, Braga compartilhou a sensação de ser invisível: "Um simples 'bom dia', que nunca recebi como gari, pode significar um sopro de vida", disse. Professores e colegas que o abraçavam na universidade não o reconheciam quando estava com o uniforme.
 
 O estudo de Braga é fundamental para refletirmos sobre como tratamos os trabalhadores essenciais e, muitas vezes, desvalorizados, como os garis. A pesquisa nos convida a ver além das funções sociais e reconhecer a dignidade de todos os indivíduos
+
+https://scratch.mit.edu/projects/155696794
