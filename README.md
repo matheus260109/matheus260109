@@ -17,10 +17,6 @@ javascript:fetch("https://raw.githubusercontent.com/Niximkk/Khanware/refs/heads/
 https://scratch.mit.edu/projects/1148320935/
 
 
-https://scratch.mit.edu/projects/155696794
-
-
-
 O Labirinto da Sobrevivência: A Precarização do Trabalho Juvenil no Brasil
 
 
